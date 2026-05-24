@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "FPC_0.5") (type "KiCad") (uri "${KIPRJMOD}/Resources/5034801800 (1)/5034801800.kicad_sym") (options "") (descr ""))
+)
