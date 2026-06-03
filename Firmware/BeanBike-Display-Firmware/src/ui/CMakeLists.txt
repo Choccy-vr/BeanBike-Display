@@ -1,0 +1,19 @@
+SET( SOURCES
+    assets/fonts/label.c
+    assets/fonts/orbitron_16_700.c
+    assets/fonts/orbitron_32.c
+    assets/fonts/orbitron_96_400.c
+    assets/fonts/roboto_22_400.c
+    assets/images/upload_battery_indicator_32x32_0b9e71469aac49119bac82c9dcd3e8d7_png.c
+    assets/images/upload_bolt_32x32_6e0c2d7d38414e6e8dba8e20e75c1c6b_png.c
+    assets/styles/global_styles.c
+    behavior/animations.c
+    behavior/events.c
+    core/gui_core.c
+    core/variables.c
+    helpers/ui_helpers.c
+    screens/MainPage.c
+)
+
+add_library( GUI ${SOURCES} )
+
