@@ -3,13 +3,14 @@
 A smart display to use with Vesc Controllers for Hack Club's Goated YSWS Macondo!!
 ### Specs
 - ESP32 S3 N16R8
-- Waveshare 480x320 display
+- Waveshare 480x320 capasitive display
 - Custom PCB
 ### Detailed Description
 A smart display using an ESP32 S3 and custom-developed firmware to communicate with VESC devices. Built for eBikes, BeanBike-Display can connect to virtually any VESC controller. With a beautiful 480x320 display from Waveshare to pair with UI designed in Squareline Vision and built with LVGL for fast, beautiful UIs. 
-
+### Why I made this
+I made this because I love mobility projects (like e-bikes or anything that moves you around); they are just so fun. This is a successor in a way to a previous project where I tried to create my own BLDC controller (it didn't go well), so this time I am making the display with all the smart functionality and VESC)
 ### BOM
-Note that these are the things that I need funded. Everything else I already have.
+Note that these are the things that I need funded. Everything else I already have. (The build cost on Macondo is outdated, but I couldn't change it. The cart pics are mostly the same, just with some stuff removed)
 |Product Name |Product Description  |Product Link                                                                                                                                                                                                                                                                 |Product unit price|Product amount|Product Cost|Total (Before Tax + Shipping)|Total (Without Shipping)|Total |
 |-------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|--------------|------------|-----------------------------|------------------------|------|
 |FPC Connector|Connecting to dosplay|https://www.digikey.com/en/products/detail/molex/5034801800/2819155?s=N4IgTCBcDaIKwAYDMAWAHAgjBhIC6AvkA                                                                                                                                                                      |$1.50             |1             |$1.50       |$8.70                        |$9.31                   |$19.36|
