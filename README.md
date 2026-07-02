@@ -25,11 +25,12 @@ Note that these are the things that I need funded. Everything else I already hav
 ### PCB
 
 #### Schematic
-<img width="1617" height="1116" alt="Schematic" src="https://github.com/user-attachments/assets/a1db5f9b-fcc1-45fe-948f-7b5417e46b19" />
+<img width="1764" height="1237" alt="image" src="https://github.com/user-attachments/assets/15a60539-c4a2-4767-8d39-c24fecf32629" />
 
 #### Layout
-<img width="954" height="590" alt="PCB" src="https://github.com/user-attachments/assets/2a823953-8348-4e4c-98f7-456e57f13ac2" />
+<img width="1597" height="1060" alt="image" src="https://github.com/user-attachments/assets/b93fbea0-9bb9-4916-b254-ed6b86887030" />
 
 #### 3D PCB
-<img width="1083" height="596" alt="PCB-Top" src="https://github.com/user-attachments/assets/ac2b2836-8ac6-4cbb-b7be-21fc6d2f76a2" />
-<img width="1083" height="596" alt="PCB-Bottom" src="https://github.com/user-attachments/assets/e503bed6-ee7f-4efe-b486-470128eb2497" />
+<img width="1083" height="596" alt="Beanbike-Display" src="https://github.com/user-attachments/assets/cab00f72-285a-4cab-9a00-372d5db04016" />
+<img width="1083" height="596" alt="Beanbike-Display-Back" src="https://github.com/user-attachments/assets/b836b9e2-2ccc-4440-9b54-f3b16e37a0b0" />
+
