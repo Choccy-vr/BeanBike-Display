@@ -20,7 +20,12 @@ Note that these are the things that I need funded. Everything else I already hav
 ## Images
 
 ### UI
+
+#### Mockup
 <img width="602" height="906" alt="image" src="https://github.com/user-attachments/assets/a3c4ed0e-594d-446a-a6bb-1d20d49369b1" />
+
+#### Built UI
+<img width="3072" height="4080" alt="PXL_20260702_140731225" src="https://github.com/user-attachments/assets/64025d23-091a-4476-addd-ed0e551158d1" />
 
 ### PCB
 
