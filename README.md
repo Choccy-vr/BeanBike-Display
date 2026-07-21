@@ -1,6 +1,8 @@
 # BeanBike-Display
 ### Description
-A smart display to use with Vesc Controllers for Hack Club's Goated YSWS Macondo!!
+A smart display to use with VESC controllers for Hack Club's Goated YSWS Macondo!!
+### Demo
+Here is a demo video on YouTube. https://youtu.be/hzEWeqmnlWU
 ### Specs
 - ESP32 S3 N16R8
 - Waveshare 480x320 capasitive display
@@ -38,4 +40,10 @@ Note that these are the things that I need funded. Everything else I already hav
 #### 3D PCB
 <img width="1083" height="596" alt="Beanbike-Display" src="https://github.com/user-attachments/assets/cab00f72-285a-4cab-9a00-372d5db04016" />
 <img width="1083" height="596" alt="Beanbike-Display-Back" src="https://github.com/user-attachments/assets/b836b9e2-2ccc-4440-9b54-f3b16e37a0b0" />
+
+### Built Images
+<img width="4080" height="3072" alt="PXL_20260721_220848045" src="https://github.com/user-attachments/assets/e74a8b34-3b15-468c-b039-ae703338ae6d" />
+<img width="3072" height="4080" alt="PXL_20260721_223713567" src="https://github.com/user-attachments/assets/622e93d3-213e-4c7b-92bd-e9991413aae3" />
+<img width="3072" height="4080" alt="PXL_20260721_223715880" src="https://github.com/user-attachments/assets/dfe2162b-40bb-46f9-956f-95c5cc61ff6b" />
+<img width="3072" height="4080" alt="PXL_20260721_223718787" src="https://github.com/user-attachments/assets/8b54df03-2313-4b3d-a237-c89bd780b9ee" />
 
