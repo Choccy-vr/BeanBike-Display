@@ -18,7 +18,8 @@ Note that these are the things that I need funded. Everything else I already hav
 |FPC Connector|Connecting to dosplay|https://www.digikey.com/en/products/detail/molex/5034801800/2819155?s=N4IgTCBcDaIKwAYDMAWAHAgjBhIC6AvkA                                                                                                                                                                      |$1.50             |1             |$1.50       |$8.70                        |$9.31                   |$19.36|
 |PCB          |uhh PCB              |https://cart.jlcpcb.com/shopcart/cart                                                                                                                                                                                                                                        |$2                |1             |$2          |                             |                        |      |
 |Headers      |connecting to ESP    |https://www.aliexpress.us/item/3256810564318830.html?spm=a2g0o.cart.0.0.213f7a9d2CsPC1&mp=1&pdp_npi=6%40dis%21USD%21USD+5.53%21USD+2.60%21%21USD+2.58%21%21%21%402103212317824399376733356ea018%2112000053390335942%21ct%21US%213108417632%21%212%210%21&gatewayAdapt=glo2usa|$2.60             |2             |$5.20       |                             |                        |      |
-
+### Firmware
+Open up the firmware folder in PlatformIO and press upload!
 ## Images
 
 ### UI
